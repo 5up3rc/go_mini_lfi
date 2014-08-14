@@ -26,7 +26,7 @@
  * OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
  *
  * Mauro Risonho de Paula Assumpcao - firebitsbr - mauro.risonho@gmail.com
- * local file inclusion tester
+ * local file inclusion tester (beta)
  *  
  */
 
